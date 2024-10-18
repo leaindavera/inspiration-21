@@ -1,2 +1,2 @@
 # inspiration-21
-Este es un repositorio de prueba del modulo dos del curso de Henry
+Este proyecto es una prueba de git y github acerca de como clonar desde github a git
